@@ -1,0 +1,91 @@
+body {
+    background-image: url(OGMMBE0.jpg)
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #213970
+}
+h2{
+    margin-left:30;
+    font-family: 'AmstelvarAlpha';
+    color: #213970
+}
+ #paragrafoum{
+    font-family: 'AmstelvarAlpha';
+    margin-left:30;
+    margin-right: 30;
+    font-size: 22px;
+    font-weight: bold;
+    color:#213970 
+}
+
+
+#imgobjetivo{
+    width: 50; height:50;
+    margin-left:30;
+    margin-right: 30;
+
+}
+
+#objetivo{
+    font-family: 'AmstelvarAlpha';
+    font-size: 30px;
+    margin-left:30;
+    margin-right: 30;
+}    
+#explicacaoobjetivos{
+    font-family: 'AmstelvarAlpha';
+    font-size: 20px;
+    margin-left:30;
+    margin-right: 30;
+}
+
+#imgajudar{
+    width: 50; height:50;
+    margin-left:30;
+    margin-right: 30;
+
+}
+
+#ajudar{
+    font-family: 'AmstelvarAlpha';
+    font-size: 30px;
+    margin-left:30;
+    margin-right: 30;
+
+}
+
+#textocontribuir{
+    font-family: 'AmstelvarAlpha';
+    font-size: 20px;
+    margin-left:30;
+    margin-right: 30;
+}
+
+#imginformacoes{
+    width: 50; height:50;
+    margin-left:30;
+    margin-right: 30;
+
+}
+
+#informações{
+    font-family: 'AmstelvarAlpha';
+    font-size: 30px;
+    margin-left:30;
+    margin-right: 30
+}
+
+#explicacaoinformacoes{
+    font-family: 'AmstelvarAlpha';
+    font-size:20px;
+    margin-left:30;
+    margin-right:30;
+}
+
+iframe{
+    margin-left:30;
+}
